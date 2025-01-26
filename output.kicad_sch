@@ -1031,12 +1031,6 @@
 		(uuid "4346fa12-2a64-40d6-88da-fb9ca07da69e")
 	)
 	(junction
-		(at 63.5 151.13)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4b780bc0-19fd-49b9-b6e0-064518a0783e")
-	)
-	(junction
 		(at 190.5 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1137,24 +1131,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d1bbc3f2-8608-4bad-993f-0cff5a15052f")
-	)
-	(junction
-		(at 137.16 162.56)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d7817598-7b5e-4b6d-ab0a-3b4a08acf8c6")
-	)
-	(junction
-		(at 127 151.13)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d9082bd4-4d27-495c-85e7-4c4099514db5")
-	)
-	(junction
-		(at 73.66 162.56)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e0af536b-8584-4c5d-b5d3-1efe5d8ff9b9")
 	)
 	(junction
 		(at 127 64.77)
@@ -1290,26 +1266,6 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 151.13) (xy 63.5 151.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "150f3626-028a-4a8e-b427-392027238a5c")
-	)
-	(wire
-		(pts
-			(xy 63.5 160.02) (xy 63.5 162.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "156abfc4-730a-4304-a760-d6c967f48fed")
-	)
-	(wire
-		(pts
 			(xy 254 116.84) (xy 254 119.38)
 		)
 		(stroke
@@ -1377,16 +1333,6 @@
 			(type default)
 		)
 		(uuid "1c087748-4179-40b3-bfda-a1e5e567f2e7")
-	)
-	(wire
-		(pts
-			(xy 63.5 151.13) (xy 63.5 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1e3c4a36-7be6-46cf-b251-592f43a9d66f")
 	)
 	(wire
 		(pts
@@ -1467,16 +1413,6 @@
 			(type default)
 		)
 		(uuid "29e12582-c7f0-4ae3-8eb5-51b015889388")
-	)
-	(wire
-		(pts
-			(xy 97.79 162.56) (xy 100.33 162.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2b36f4ea-490f-4caf-ace3-0dc9c35e3739")
 	)
 	(wire
 		(pts
@@ -1640,16 +1576,6 @@
 	)
 	(wire
 		(pts
-			(xy 127 160.02) (xy 127 162.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4440ac42-e7d5-42a0-9811-83f9083b7dde")
-	)
-	(wire
-		(pts
 			(xy 73.66 44.45) (xy 73.66 46.99)
 		)
 		(stroke
@@ -1690,26 +1616,6 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 162.56) (xy 36.83 162.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "51c742b3-8d26-4a8d-936e-4d388507fd1b")
-	)
-	(wire
-		(pts
-			(xy 44.45 162.56) (xy 48.26 162.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "51dde86f-fd40-4121-89d8-ab95dcf9cf43")
-	)
-	(wire
-		(pts
 			(xy 161.29 76.2) (xy 163.83 76.2)
 		)
 		(stroke
@@ -1737,16 +1643,6 @@
 			(type default)
 		)
 		(uuid "57cdf49f-0a87-4907-9cd7-f0e716bb6943")
-	)
-	(wire
-		(pts
-			(xy 73.66 160.02) (xy 73.66 162.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "58b281bf-ecce-4ccd-bf49-f351ef1394fd")
 	)
 	(wire
 		(pts
@@ -1880,16 +1776,6 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 162.56) (xy 111.76 162.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6a3818c8-5630-4f28-a7e1-9a778badb958")
-	)
-	(wire
-		(pts
 			(xy 190.5 22.86) (xy 190.5 24.13)
 		)
 		(stroke
@@ -1917,16 +1803,6 @@
 			(type default)
 		)
 		(uuid "6ceeeac9-1a18-4387-b8aa-b084cf8ba1ba")
-	)
-	(wire
-		(pts
-			(xy 73.66 172.72) (xy 73.66 175.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6e44be05-1c7d-4ab1-a34c-0f43e9ea5bf7")
 	)
 	(wire
 		(pts
@@ -2010,16 +1886,6 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 151.13) (xy 127 151.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7c87f24d-5541-4189-8442-efc045047896")
-	)
-	(wire
-		(pts
 			(xy 264.16 24.13) (xy 264.16 22.86)
 		)
 		(stroke
@@ -2027,16 +1893,6 @@
 			(type default)
 		)
 		(uuid "7c99753c-b887-425f-aa5a-6f50700c202d")
-	)
-	(wire
-		(pts
-			(xy 137.16 160.02) (xy 137.16 162.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7d20be7d-1223-49ec-b8c9-7cac5f269168")
 	)
 	(wire
 		(pts
@@ -2097,26 +1953,6 @@
 			(type default)
 		)
 		(uuid "83081018-1615-4073-8871-87dbe39c230b")
-	)
-	(wire
-		(pts
-			(xy 111.76 167.64) (xy 111.76 175.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "83219989-ecdf-4dc8-82ca-94b7b4c2caa2")
-	)
-	(wire
-		(pts
-			(xy 127 149.86) (xy 127 151.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "834f9656-0846-44cc-8ef8-470233cd60a2")
 	)
 	(wire
 		(pts
@@ -2270,16 +2106,6 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 167.64) (xy 66.04 167.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9942a3ba-9ac9-4d48-9a3b-d00334310406")
-	)
-	(wire
-		(pts
 			(xy 127 124.46) (xy 129.54 124.46)
 		)
 		(stroke
@@ -2377,16 +2203,6 @@
 			(type default)
 		)
 		(uuid "a8ccc053-a118-4a75-b8e6-d01f6c8abe6a")
-	)
-	(wire
-		(pts
-			(xy 127 151.13) (xy 127 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a974dad1-05e8-4651-8273-48f536f5a1c3")
 	)
 	(wire
 		(pts
@@ -2550,16 +2366,6 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 152.4) (xy 137.16 151.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c8c896b2-beb6-46b0-a9ce-2274f671e306")
-	)
-	(wire
-		(pts
 			(xy 63.5 116.84) (xy 63.5 119.38)
 		)
 		(stroke
@@ -2567,26 +2373,6 @@
 			(type default)
 		)
 		(uuid "c9e0ab11-96c7-487b-9ded-d87749ebafaa")
-	)
-	(wire
-		(pts
-			(xy 81.28 162.56) (xy 73.66 162.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ca182e23-15a4-469e-91c1-3a82a3138372")
-	)
-	(wire
-		(pts
-			(xy 63.5 149.86) (xy 63.5 151.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ccf34f88-f25f-4ef6-9bd8-06ca3e06762a")
 	)
 	(wire
 		(pts
@@ -2690,16 +2476,6 @@
 	)
 	(wire
 		(pts
-			(xy 127 167.64) (xy 129.54 167.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e7fcff2f-c156-4d78-8d97-379e588a3a01")
-	)
-	(wire
-		(pts
 			(xy 48.26 124.46) (xy 48.26 132.08)
 		)
 		(stroke
@@ -2727,36 +2503,6 @@
 			(type default)
 		)
 		(uuid "ec2da1d0-882f-4954-972f-bc701514415f")
-	)
-	(wire
-		(pts
-			(xy 73.66 152.4) (xy 73.66 151.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ec4ffc52-8f0c-4308-965a-21508a8be820")
-	)
-	(wire
-		(pts
-			(xy 137.16 172.72) (xy 137.16 175.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ef537e6b-821c-47a8-8d27-126174a52cd3")
-	)
-	(wire
-		(pts
-			(xy 48.26 167.64) (xy 48.26 175.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f264586a-1cbe-4d5f-89d1-09e042e67796")
 	)
 	(wire
 		(pts
@@ -2838,16 +2584,6 @@
 		)
 		(uuid "fe18a414-9425-4a42-9617-49a838fd9336")
 	)
-	(wire
-		(pts
-			(xy 143.51 162.56) (xy 137.16 162.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fee372d0-7a94-418b-a710-821320fbfdea")
-	)
 	(hierarchical_label "OUT10"
 		(shape passive)
 		(at 97.79 119.38 180)
@@ -2914,17 +2650,6 @@
 		)
 		(uuid "47b670c8-0221-4b44-92f5-921cc926fdb1")
 	)
-	(hierarchical_label "DO14"
-		(shape passive)
-		(at 143.51 162.56 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "586c60b5-577e-4437-beaa-1e036e9e7c0b")
-	)
 	(hierarchical_label "OUT6"
 		(shape passive)
 		(at 97.79 76.2 180)
@@ -2979,17 +2704,6 @@
 			(justify left)
 		)
 		(uuid "82021198-c7fb-46d4-9421-82eb59fa8cf5")
-	)
-	(hierarchical_label "OUT14"
-		(shape passive)
-		(at 97.79 162.56 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "837a3315-1da5-413a-a3a6-17ce34839524")
 	)
 	(hierarchical_label "DO10"
 		(shape passive)
@@ -3057,17 +2771,6 @@
 		)
 		(uuid "c47f2421-c947-4bc7-83bb-fde38de69698")
 	)
-	(hierarchical_label "DO13"
-		(shape passive)
-		(at 81.28 162.56 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "c913486e-5dfd-4e21-8f51-684a4b072b25")
-	)
 	(hierarchical_label "DO12"
 		(shape passive)
 		(at 270.51 119.38 0)
@@ -3078,17 +2781,6 @@
 			(justify left)
 		)
 		(uuid "ccb7f33f-31ef-421b-9824-435445431b7c")
-	)
-	(hierarchical_label "OUT13"
-		(shape passive)
-		(at 34.29 162.56 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "d2415770-ea87-429f-9f60-a785e567b638")
 	)
 	(hierarchical_label "OUT9"
 		(shape passive)
@@ -3263,7 +2955,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND_IN"
 			(at 137.16 93.98 0)
 			(effects
 				(font
@@ -3312,153 +3004,6 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 127 156.21 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "08572fdb-fe57-4d37-9e0b-21ce809d4662")
-		(property "Reference" "R44"
-			(at 129.54 154.9399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "680"
-			(at 129.54 157.4799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 128.778 156.21 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 127 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 127 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8ff006cf-aa91-4f1b-9f5c-d153e4baa791")
-		)
-		(pin "2"
-			(uuid "01c62f18-8a79-4de5-b2a6-a1baf484c307")
-		)
-		(instances
-			(project "blackpill-industrial-shield"
-				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "R44")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Isolator:PC817")
-		(at 119.38 165.1 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "08cb9fc2-32d5-4de6-9267-bff821357f83")
-		(property "Reference" "U33"
-			(at 119.38 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PC817"
-			(at 119.38 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_DIP:DIP-4_W7.62mm"
-			(at 114.3 170.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.soselectronic.cz/a_info/resource/d/pc817.pdf"
-			(at 119.38 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4"
-			(at 119.38 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0e48ee3f-fe21-40d0-b00e-e40f3ab1a3d0")
-		)
-		(pin "4"
-			(uuid "9b2d8406-b330-4814-a862-850935b444b4")
-		)
-		(pin "2"
-			(uuid "2331bff6-7045-429b-a3de-d7774df42601")
-		)
-		(pin "3"
-			(uuid "a449a7bf-e3da-40df-9d1e-e3161a38d84e")
-		)
-		(instances
-			(project "blackpill-industrial-shield"
-				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "U33")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
 		(at 40.64 119.38 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3467,7 +3012,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0954b066-ae9d-4879-a751-284f1d254ee2")
-		(property "Reference" "R33"
+		(property "Reference" "R34"
 			(at 40.64 113.03 90)
 			(effects
 				(font
@@ -3519,7 +3064,7 @@
 		(instances
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "R33")
+					(reference "R34")
 					(unit 1)
 				)
 			)
@@ -3544,7 +3089,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND_IN"
 			(at 264.16 137.16 0)
 			(effects
 				(font
@@ -3610,7 +3155,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND_IN"
 			(at 73.66 137.16 0)
 			(effects
 				(font
@@ -3667,7 +3212,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0cf22f42-ea81-44d6-bb6d-1046d41057ea")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR0102"
 			(at 63.5 25.4 0)
 			(effects
 				(font
@@ -3717,7 +3262,7 @@
 		(instances
 			(project ""
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "#PWR012")
+					(reference "#PWR0102")
 					(unit 1)
 				)
 			)
@@ -3821,7 +3366,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "150b1ea0-c9ef-4a11-ba17-80693b959ec7")
-		(property "Reference" "U20"
+		(property "Reference" "U19"
 			(at 55.88 27.94 0)
 			(effects
 				(font
@@ -3882,7 +3427,7 @@
 		(instances
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "U20")
+					(reference "U19")
 					(unit 1)
 				)
 			)
@@ -3898,7 +3443,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1527adb8-f5f1-454f-9de3-29b970e80986")
-		(property "Reference" "U25"
+		(property "Reference" "U24"
 			(at 119.38 69.85 0)
 			(effects
 				(font
@@ -3959,7 +3504,7 @@
 		(instances
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "U25")
+					(reference "U24")
 					(unit 1)
 				)
 			)
@@ -4195,7 +3740,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1ce25952-24e2-449a-af1e-b056f1debd0e")
-		(property "Reference" "U28"
+		(property "Reference" "U27"
 			(at 55.88 113.03 0)
 			(effects
 				(font
@@ -4256,7 +3801,7 @@
 		(instances
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "U28")
+					(reference "U27")
 					(unit 1)
 				)
 			)
@@ -4435,7 +3980,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND_IN"
 			(at 73.66 93.98 0)
 			(effects
 				(font
@@ -4492,7 +4037,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "28a75573-86d9-44fa-aec0-5e33ffb02e47")
-		(property "Reference" "U29"
+		(property "Reference" "U28"
 			(at 119.38 113.03 0)
 			(effects
 				(font
@@ -4553,7 +4098,7 @@
 		(instances
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "U29")
+					(reference "U28")
 					(unit 1)
 				)
 			)
@@ -4799,7 +4344,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3596594f-cf62-4479-b05a-2e3d1717de59")
-		(property "Reference" "U27"
+		(property "Reference" "U26"
 			(at 246.38 69.85 0)
 			(effects
 				(font
@@ -4860,7 +4405,7 @@
 		(instances
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "U27")
+					(reference "U26")
 					(unit 1)
 				)
 			)
@@ -4952,7 +4497,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "36da13a8-5615-4839-b4d7-1bac58480791")
-		(property "Reference" "R20"
+		(property "Reference" "R21"
 			(at 129.54 26.6699 0)
 			(effects
 				(font
@@ -5006,7 +4551,7 @@
 		(instances
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "R20")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -5088,7 +4633,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3927a068-364c-487f-9b39-67effc9852af")
-		(property "Reference" "R36"
+		(property "Reference" "R37"
 			(at 129.54 111.7599 0)
 			(effects
 				(font
@@ -5142,7 +4687,7 @@
 		(instances
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "R36")
+					(reference "R37")
 					(unit 1)
 				)
 			)
@@ -5158,7 +4703,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "41b25638-8d23-48ec-8caa-8a9615ab0c35")
-		(property "Reference" "R39"
+		(property "Reference" "R40"
 			(at 231.14 113.03 90)
 			(effects
 				(font
@@ -5210,7 +4755,7 @@
 		(instances
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "R39")
+					(reference "R40")
 					(unit 1)
 				)
 			)
@@ -5226,7 +4771,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "42e82f3b-d6ee-4040-b7bf-7370dea69027")
-		(property "Reference" "R26"
+		(property "Reference" "R27"
 			(at 66.04 68.5799 0)
 			(effects
 				(font
@@ -5280,7 +4825,7 @@
 		(instances
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "R26")
+					(reference "R27")
 					(unit 1)
 				)
 			)
@@ -5347,82 +4892,6 @@
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
 					(reference "#PWR049")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Transistor_BJT:BC817")
-		(at 134.62 167.64 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4418bc7b-4071-4529-aed6-9baeee4959ac")
-		(property "Reference" "Q14"
-			(at 139.7 166.3699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "BC817"
-			(at 139.7 168.9099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 139.7 169.545 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC818-D.pdf"
-			(at 134.62 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "0.8A Ic, 45V Vce, NPN Transistor, SOT-23"
-			(at 134.62 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "26b80dae-da7b-4ff4-9bc8-5d487164ad07")
-		)
-		(pin "1"
-			(uuid "95e64289-10c1-4ad9-b5a7-c39d7465e7f4")
-		)
-		(pin "2"
-			(uuid "1118904b-d6f3-4acf-8cb1-ad8de6820aa2")
-		)
-		(instances
-			(project "blackpill-industrial-shield"
-				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "Q14")
 					(unit 1)
 				)
 			)
@@ -5570,7 +5039,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "48009e24-374b-4c7d-b5e0-53fed494e124")
-		(property "Reference" "R29"
+		(property "Reference" "R30"
 			(at 167.64 69.85 90)
 			(effects
 				(font
@@ -5622,7 +5091,7 @@
 		(instances
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "R29")
+					(reference "R30")
 					(unit 1)
 				)
 			)
@@ -5647,7 +5116,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND_IN"
 			(at 137.16 137.16 0)
 			(effects
 				(font
@@ -5849,82 +5318,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Transistor_BJT:BC817")
-		(at 71.12 167.64 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5118f3e1-47f0-4275-b8a1-b54ed859111c")
-		(property "Reference" "Q13"
-			(at 76.2 166.3699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "BC817"
-			(at 76.2 168.9099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 76.2 169.545 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC818-D.pdf"
-			(at 71.12 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "0.8A Ic, 45V Vce, NPN Transistor, SOT-23"
-			(at 71.12 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "39484bfb-762f-4448-b6dc-5732e9250fc0")
-		)
-		(pin "1"
-			(uuid "d2b5757c-f58b-4952-8721-5a649eb0ee4d")
-		)
-		(pin "2"
-			(uuid "a0f2b4b4-f7ac-47ce-9317-08289d1b89df")
-		)
-		(instances
-			(project "blackpill-industrial-shield"
-				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "Q13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 200.66 132.08 0)
 		(unit 1)
@@ -5943,7 +5336,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND_IN"
 			(at 200.66 137.16 0)
 			(effects
 				(font
@@ -6168,74 +5561,6 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 40.64 162.56 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "59960a16-2282-4c4b-a208-9b42d487becf")
-		(property "Reference" "R41"
-			(at 40.64 156.21 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "680"
-			(at 40.64 158.75 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 40.64 164.338 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 40.64 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 40.64 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9b096457-4300-44d3-ba0c-cd7fea271083")
-		)
-		(pin "2"
-			(uuid "93b49a79-b70b-46cf-a55d-616f75a12940")
-		)
-		(instances
-			(project "blackpill-industrial-shield"
-				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "R41")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
 		(at 40.64 76.2 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6244,7 +5569,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "599ef393-7ede-439a-bd4c-4b12a6e06542")
-		(property "Reference" "R25"
+		(property "Reference" "R26"
 			(at 40.64 69.85 90)
 			(effects
 				(font
@@ -6296,161 +5621,7 @@
 		(instances
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "R25")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4007")
-		(at 137.16 156.21 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5c0686cd-b58b-4cf8-8ab8-8b0828c80d5e")
-		(property "Reference" "D14"
-			(at 139.7 154.9399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1N4007"
-			(at 139.7 157.4799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SMA_Handsoldering"
-			(at 132.715 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.vishay.com/docs/88503/1n4001.pdf"
-			(at 137.16 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "1000V 1A General Purpose Rectifier Diode, DO-41"
-			(at 137.16 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 137.16 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 137.16 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "88014d9c-1b7f-4d3b-8a3e-156d9ffb782a")
-		)
-		(pin "1"
-			(uuid "4fabbdf5-6d5e-444f-b1fe-96dea917bf84")
-		)
-		(instances
-			(project "blackpill-industrial-shield"
-				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "D14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 73.66 175.26 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5c1a2d9e-0df2-4b31-bcea-ef0470bafd46")
-		(property "Reference" "#PWR040"
-			(at 73.66 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 73.66 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 73.66 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 73.66 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 73.66 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bd42a3e2-82f1-4f62-96b3-8c4feec2ea12")
-		)
-		(instances
-			(project "blackpill-industrial-shield"
-				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "#PWR040")
+					(reference "R26")
 					(unit 1)
 				)
 			)
@@ -6684,7 +5855,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6dab4dfe-6892-4fcb-bccb-4eb56f645b25")
-		(property "Reference" "U30"
+		(property "Reference" "U29"
 			(at 182.88 113.03 0)
 			(effects
 				(font
@@ -6745,7 +5916,7 @@
 		(instances
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "U30")
+					(reference "U29")
 					(unit 1)
 				)
 			)
@@ -6770,7 +5941,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND_IN"
 			(at 137.16 52.07 0)
 			(effects
 				(font
@@ -6827,7 +5998,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "70179be1-ca9c-4ed9-8bda-aa2138ab32a3")
-		(property "Reference" "R28"
+		(property "Reference" "R29"
 			(at 129.54 68.5799 0)
 			(effects
 				(font
@@ -6881,73 +6052,7 @@
 		(instances
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "R28")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 111.76 175.26 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "71a05e56-73b2-4cbe-ac6a-66d689b4c668")
-		(property "Reference" "#PWR041"
-			(at 111.76 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 111.76 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 111.76 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 111.76 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 111.76 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "957e6cb1-a9c5-42f4-a2e9-f309f823f7dd")
-		)
-		(instances
-			(project "blackpill-industrial-shield"
-				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "#PWR041")
+					(reference "R29")
 					(unit 1)
 				)
 			)
@@ -6972,7 +6077,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND_IN"
 			(at 264.16 93.98 0)
 			(effects
 				(font
@@ -7086,72 +6191,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 48.26 175.26 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "74091430-644e-42bb-b9e0-0359d0c57d09")
-		(property "Reference" "#PWR038"
-			(at 48.26 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 48.26 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 48.26 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 48.26 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 48.26 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6044008e-8d16-40d5-bbb9-06f07dab19e3")
-		)
-		(instances
-			(project "blackpill-industrial-shield"
-				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "#PWR038")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 167.64 34.29 90)
 		(unit 1)
@@ -7161,7 +6200,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7465bd06-460d-44b9-9273-abbbf58125cd")
-		(property "Reference" "R21"
+		(property "Reference" "R22"
 			(at 167.64 27.94 90)
 			(effects
 				(font
@@ -7213,7 +6252,7 @@
 		(instances
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "R21")
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -7229,7 +6268,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "74f9fd0a-ed9e-4e82-b98d-adb27cf86b05")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR0101"
 			(at 73.66 53.34 0)
 			(effects
 				(font
@@ -7238,7 +6277,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND_IN"
 			(at 73.66 52.07 0)
 			(effects
 				(font
@@ -7279,7 +6318,7 @@
 		(instances
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "#PWR011")
+					(reference "#PWR0101")
 					(unit 1)
 				)
 			)
@@ -7361,7 +6400,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "77943860-de01-4f5f-bc4a-ebd52cdc613a")
-		(property "Reference" "R24"
+		(property "Reference" "R25"
 			(at 256.54 26.6699 0)
 			(effects
 				(font
@@ -7415,7 +6454,7 @@
 		(instances
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "R24")
+					(reference "R25")
 					(unit 1)
 				)
 			)
@@ -7431,7 +6470,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "785b6d36-49e0-4e5f-b600-c9a3b704312f")
-		(property "Reference" "R17"
+		(property "Reference" "R18"
 			(at 40.64 27.94 90)
 			(effects
 				(font
@@ -7483,7 +6522,7 @@
 		(instances
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "R17")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -7565,7 +6604,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7af9132b-c363-4031-a507-c90c57e3b474")
-		(property "Reference" "U22"
+		(property "Reference" "U21"
 			(at 182.88 27.94 0)
 			(effects
 				(font
@@ -7626,73 +6665,7 @@
 		(instances
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "U22")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+24V")
-		(at 127 149.86 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7b0cdb93-069e-4e8f-b3f6-27ff68ab4326")
-		(property "Reference" "#PWR080"
-			(at 127 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+24V"
-			(at 127 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 127 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 127 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+24V\""
-			(at 127 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "584fd190-8ea7-4ec1-a0ea-863caf089dba")
-		)
-		(instances
-			(project "blackpill-industrial-shield"
-				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "#PWR080")
+					(reference "U21")
 					(unit 1)
 				)
 			)
@@ -7708,7 +6681,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7fbb0ce8-defb-49bd-ada9-9603abb2fd91")
-		(property "Reference" "R40"
+		(property "Reference" "R41"
 			(at 256.54 111.7599 0)
 			(effects
 				(font
@@ -7762,77 +6735,7 @@
 		(instances
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "R40")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 63.5 156.21 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "81242a43-a2b1-41dc-8cca-cfba99fc0bb8")
-		(property "Reference" "R42"
-			(at 66.04 154.9399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "680"
-			(at 66.04 157.4799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 65.278 156.21 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 63.5 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 63.5 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c53e6868-b329-4517-8fd5-8e51174267ee")
-		)
-		(pin "2"
-			(uuid "1c7d9d7f-545f-4321-8556-00562e87e6dc")
-		)
-		(instances
-			(project "blackpill-industrial-shield"
-				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "R42")
+					(reference "R41")
 					(unit 1)
 				)
 			)
@@ -7971,94 +6874,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:1N4007")
-		(at 73.66 156.21 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "84b871cb-be2e-4f0c-8b74-07700961a5cd")
-		(property "Reference" "D13"
-			(at 76.2 154.9399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1N4007"
-			(at 76.2 157.4799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SMA_Handsoldering"
-			(at 69.215 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.vishay.com/docs/88503/1n4001.pdf"
-			(at 73.66 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "1000V 1A General Purpose Rectifier Diode, DO-41"
-			(at 73.66 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 73.66 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 73.66 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "17670abb-6819-499e-af3b-10727ed56475")
-		)
-		(pin "1"
-			(uuid "c3242012-4b90-416f-a9f0-566feef30fc1")
-		)
-		(instances
-			(project "blackpill-industrial-shield"
-				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "D13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Isolator:PC817")
 		(at 55.88 78.74 0)
 		(unit 1)
@@ -8068,7 +6883,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8720ef89-913f-44b1-b1d3-8a806231660b")
-		(property "Reference" "U24"
+		(property "Reference" "U23"
 			(at 55.88 69.85 0)
 			(effects
 				(font
@@ -8129,7 +6944,7 @@
 		(instances
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "U24")
+					(reference "U23")
 					(unit 1)
 				)
 			)
@@ -8145,7 +6960,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "897cf39c-587f-414f-a15d-fac4132883bf")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR0103"
 			(at 48.26 53.34 0)
 			(effects
 				(font
@@ -8195,7 +7010,7 @@
 		(instances
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "#PWR010")
+					(reference "#PWR0103")
 					(unit 1)
 				)
 			)
@@ -8211,7 +7026,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "89c7c71b-3410-4dca-a84c-7ff6117db7fa")
-		(property "Reference" "R31"
+		(property "Reference" "R32"
 			(at 231.14 69.85 90)
 			(effects
 				(font
@@ -8263,7 +7078,7 @@
 		(instances
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "R31")
+					(reference "R32")
 					(unit 1)
 				)
 			)
@@ -8345,7 +7160,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9033af39-e975-4a1f-8511-840a9e6fe610")
-		(property "Reference" "R18"
+		(property "Reference" "R19"
 			(at 66.04 26.6699 0)
 			(effects
 				(font
@@ -8399,7 +7214,7 @@
 		(instances
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "R18")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -8481,7 +7296,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9e9fc4eb-7018-4c2c-93fd-e4e1ba7ade66")
-		(property "Reference" "U23"
+		(property "Reference" "U22"
 			(at 246.38 27.94 0)
 			(effects
 				(font
@@ -8542,7 +7357,7 @@
 		(instances
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "U23")
+					(reference "U22")
 					(unit 1)
 				)
 			)
@@ -8624,7 +7439,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a327eb1f-0405-4cc6-9d81-3219b5d3f36a")
-		(property "Reference" "U21"
+		(property "Reference" "U20"
 			(at 119.38 27.94 0)
 			(effects
 				(font
@@ -8685,7 +7500,7 @@
 		(instances
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "U21")
+					(reference "U20")
 					(unit 1)
 				)
 			)
@@ -8701,7 +7516,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a33480a9-ed87-43b4-9d39-ad0b350a7415")
-		(property "Reference" "U26"
+		(property "Reference" "U25"
 			(at 182.88 69.85 0)
 			(effects
 				(font
@@ -8762,7 +7577,7 @@
 		(instances
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "U26")
+					(reference "U25")
 					(unit 1)
 				)
 			)
@@ -8778,7 +7593,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a3d9a8d7-4ec1-4111-a702-b3217b36ffc7")
-		(property "Reference" "R35"
+		(property "Reference" "R36"
 			(at 104.14 113.03 90)
 			(effects
 				(font
@@ -8830,7 +7645,7 @@
 		(instances
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "R35")
+					(reference "R36")
 					(unit 1)
 				)
 			)
@@ -8846,7 +7661,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a91567d0-ab86-4b9c-8376-b2996f934427")
-		(property "Reference" "U31"
+		(property "Reference" "U30"
 			(at 246.38 113.03 0)
 			(effects
 				(font
@@ -8907,7 +7722,7 @@
 		(instances
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "U31")
+					(reference "U30")
 					(unit 1)
 				)
 			)
@@ -8980,72 +7795,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+24V")
-		(at 63.5 149.86 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "af2db0f8-0330-4da8-a2ba-c18b7a0e87e3")
-		(property "Reference" "#PWR039"
-			(at 63.5 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+24V"
-			(at 63.5 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 63.5 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 63.5 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+24V\""
-			(at 63.5 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "59a9da43-73e1-450c-8334-a16e53c9df0b")
-		)
-		(instances
-			(project "blackpill-industrial-shield"
-				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "#PWR039")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 231.14 34.29 90)
 		(unit 1)
@@ -9055,7 +7804,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "af3fb4c0-8259-4bc7-9d36-32ecba0bcb9e")
-		(property "Reference" "R23"
+		(property "Reference" "R24"
 			(at 231.14 27.94 90)
 			(effects
 				(font
@@ -9107,7 +7856,7 @@
 		(instances
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "R23")
+					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -9517,7 +8266,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b7c60879-dafc-4d5d-bffa-497b4a050772")
-		(property "Reference" "R22"
+		(property "Reference" "R23"
 			(at 193.04 26.6699 0)
 			(effects
 				(font
@@ -9571,7 +8320,7 @@
 		(instances
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "R22")
+					(reference "R23")
 					(unit 1)
 				)
 			)
@@ -9675,7 +8424,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ba9bb9e1-66ba-4ec3-a444-e851eb9162fb")
-		(property "Reference" "R34"
+		(property "Reference" "R35"
 			(at 66.04 111.7599 0)
 			(effects
 				(font
@@ -9729,84 +8478,7 @@
 		(instances
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "R34")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Isolator:PC817")
-		(at 55.88 165.1 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bf01f880-8753-45ac-beed-50224c48a97a")
-		(property "Reference" "U32"
-			(at 55.88 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PC817"
-			(at 55.88 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_DIP:DIP-4_W7.62mm"
-			(at 50.8 170.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.soselectronic.cz/a_info/resource/d/pc817.pdf"
-			(at 55.88 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4"
-			(at 55.88 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9502aaad-a306-4aa8-8447-e5682f4236b1")
-		)
-		(pin "4"
-			(uuid "bd6771c2-38a3-4dfe-9c23-c82b96aac0a8")
-		)
-		(pin "2"
-			(uuid "ad730077-c0a4-44be-b127-8eef311994c8")
-		)
-		(pin "3"
-			(uuid "dfe47ee2-98ca-4760-beba-7fe87de67d65")
-		)
-		(instances
-			(project "blackpill-industrial-shield"
-				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "U32")
+					(reference "R35")
 					(unit 1)
 				)
 			)
@@ -10270,7 +8942,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dd02a9e1-54dc-4c07-829c-21b92730ce84")
-		(property "Reference" "R30"
+		(property "Reference" "R31"
 			(at 193.04 68.5799 0)
 			(effects
 				(font
@@ -10324,7 +8996,7 @@
 		(instances
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "R30")
+					(reference "R31")
 					(unit 1)
 				)
 			)
@@ -10340,7 +9012,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dfe1de2a-f7a3-4f35-b3dc-19f4c984e6a6")
-		(property "Reference" "R27"
+		(property "Reference" "R28"
 			(at 104.14 69.85 90)
 			(effects
 				(font
@@ -10392,7 +9064,7 @@
 		(instances
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "R27")
+					(reference "R28")
 					(unit 1)
 				)
 			)
@@ -10408,7 +9080,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e39f5d38-6922-4991-aa88-3328ac3c2ccc")
-		(property "Reference" "R37"
+		(property "Reference" "R38"
 			(at 167.64 113.03 90)
 			(effects
 				(font
@@ -10460,7 +9132,7 @@
 		(instances
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "R37")
+					(reference "R38")
 					(unit 1)
 				)
 			)
@@ -10476,7 +9148,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e3f40730-0b1d-4d0b-bdb8-6d6d50723e5a")
-		(property "Reference" "R32"
+		(property "Reference" "R33"
 			(at 256.54 68.5799 0)
 			(effects
 				(font
@@ -10530,75 +9202,7 @@
 		(instances
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "R32")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 104.14 162.56 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e85e7da7-0362-408f-8022-74b2e702ca8c")
-		(property "Reference" "R43"
-			(at 104.14 156.21 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "680"
-			(at 104.14 158.75 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 104.14 164.338 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 104.14 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 104.14 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "81c77080-076f-4be4-aa60-117339de1af3")
-		)
-		(pin "2"
-			(uuid "cbe53e1d-d1de-407d-a2f3-82d86099f791")
-		)
-		(instances
-			(project "blackpill-industrial-shield"
-				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "R43")
+					(reference "R33")
 					(unit 1)
 				)
 			)
@@ -10623,7 +9227,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND_IN"
 			(at 200.66 52.07 0)
 			(effects
 				(font
@@ -10680,7 +9284,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ec929cb2-7b19-4fbc-a49a-ac38c871443e")
-		(property "Reference" "R19"
+		(property "Reference" "R20"
 			(at 104.14 27.94 90)
 			(effects
 				(font
@@ -10732,7 +9336,7 @@
 		(instances
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "R19")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -10824,7 +9428,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ef33572f-6bee-4a4c-a3f7-ccca074b8bad")
-		(property "Reference" "R38"
+		(property "Reference" "R39"
 			(at 193.04 111.7599 0)
 			(effects
 				(font
@@ -10878,73 +9482,7 @@
 		(instances
 			(project "blackpill-industrial-shield"
 				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "R38")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 137.16 175.26 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f1932e5f-8ed5-4ab8-9506-ad0636f46826")
-		(property "Reference" "#PWR081"
-			(at 137.16 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 137.16 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 137.16 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 137.16 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 137.16 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ac0dba8f-e38e-4a15-b8e2-27784b37d322")
-		)
-		(instances
-			(project "blackpill-industrial-shield"
-				(path "/851cb830-7a33-45c6-a21c-947c2499154b/a5456841-270a-461a-9273-9185b4cbd96a"
-					(reference "#PWR081")
+					(reference "R39")
 					(unit 1)
 				)
 			)
@@ -10969,7 +9507,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND_IN"
 			(at 200.66 93.98 0)
 			(effects
 				(font
@@ -11111,7 +9649,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND_IN"
 			(at 264.16 52.07 0)
 			(effects
 				(font
